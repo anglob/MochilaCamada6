@@ -1,0 +1,200 @@
+Comandos (HTML,Git,Terminal,Figma,etc)
+
+
+Figma :
+
+Presionar A y arrastrar = Crea un nuevo Frame
+
+R  = Rectángulo
+
+O = Circulo
+
+K = Escalar imagen
+
+Presionar Option = Nos da detalles de la separación del objeto con respecto a otros objetos
+
+Command+G = Se crea un grupo entre los elementos seleccionados (SHIFT)
+
+SHIFT + A  = Generar Frame entre elementos seleccionados
+
+DELETE = Borrar
+
+
+
+
+
+
+GIT:
+
+HEAD = apuntador que nos indica en que commit estoy parado
+
+Git —version= muestra la version actual de git
+
+Git init = crear repositorio local
+
+Git add “nombre-archivo” = Agregar archivo para seguir
+
+Git add . = Agregar todos los archivos a git
+
+Git commit -m “mensaje” = Agregar los archivos de la carpeta en un commit y escribir un mensaje
+
+Git status = chequear el estado de los archivos
+
+Git rm —cached = git ignora el archivo pasándolo a un estado de untracked sin eliminarlo
+
+Git config —list = lista de datos del usuario subidos en git
+
+git branch -m master main = renombrado rama git a main
+
+Git log —online = resume el total de commits
+
+Rm -rf .git = elimina la carpeta oculta git
+
+git config --global init.defaultBranch [BRANCH_NAME] = configura el nombre default de la rama principal
+
+Git restore . = restaura los elementos eliminados anteriormente en esa carpeta
+
+Git remote add origin “link” = Sincroniza el repositorio local con el repositorio en la nube de GitHub
+
+Git remote -v = da como resultado el link del repositorio en la nube conectado al actual repositorio local
+
+Git push origin “nombreRama” = envia los archivos desde el repositorio local al repositorio en la nube de Github
+
+Git clone “urlArchivos”  = descarga los archivos desde Github al repositorio local por primera vez
+
+Git pull origin “nombreRama”  = copia las modificaciones de los archivos anteriormente clonados o nuevos archivos existentes en la rama nombrada de GitHub (posterior a git clone )
+
+Git branch = Enumera todas las ramas de tu repositorio, similar a git branch —list
+
+Git branch <branch> = crea una nueva rama llamada <branch>
+
+Git branch -d <branch> = elimina la rama llamada <branch>.Git evita que eliminemos la rama si tiene cambios que aun no se han fusionado con la rama main
+
+Git branch -D <branch> = fuerza la eliminación de la rama seleccionada incluso si tiene cambios no fusionado
+
+Git checkout nombre_rama = permite movernos entre distintas ramas. Esto solo sera posible si no tenemos cambios. 
+
+Git checkout -b nombre_rama = Crea una rama y a la vez se mueve a esa rama
+
+
+
+Terminal:
+
+Pwd = Ver ruta en la que estoy parado
+
+Mkdir = Crear carpeta
+
+Touch = crear archivo
+
+Clear = limpiar terminal
+
+Rm = eliminar archivo
+
+Rm *.extension = eliminar todos los archivos que contengan los caracteres tipeados después del asterisco
+
+Rm -r = eliminar carpeta
+
+Ls = ver los archivos de la carpeta actual
+
+Ls -R = Listar todos los archivos de la carpeta actual y las carpetas interiores
+
+Ls -a = mostrar archivos y archivos ocultos de la carpeta actual
+
+Mv = renombrar archivo-carpeta o mover un archivo a una carpeta en caso de que esta exista
+
+rm -rf nombre = borra la carpeta y todos los archivos de manera forzada
+
+
+HTML:
+
+<head> = se usa para setear idiomas y cosas generales
+
+<header> = cabecera de la pagina
+
+<!DOCTYPE> = Tipo de documento
+
+<html> = documento html
+
+<h1> = Titulo en negrita. Mientras mas alto el numero después de h mas chica la letra ( h1 - h6) (elemento de bloque)
+
+<ol> = Lista ordenada (type A,I,1 - reversed - start)
+
+<ul> = Lista desordenada
+
+<li> = Elemento de una lista ( va adentro de las llaves de <ol> o <ul>)
+
+<p> = párrafos o bloque de texto (elemento de bloque)
+
+<b> = bold , texto en negrita
+
+<strong> = resalta textos en negrita (elemento de linea) mayor importancia que <b>
+
+<i> = texto en cursiva ( elemento de linea)
+
+<em> = hace textos en cursiva (elemento de linea) tiene mayor importancia que <i>
+
+<br> = sirve para generar saltos de linea entre las distintas lineas de un párrafo
+
+<meta> = permite definir propiedades de la pagina que no pueden definirse con otras etiquetas
+
+<!— comentario —> = Añade comentario
+
+option+shit+f = indentar texto
+
+<mark> = sirve para remarcar texto
+
+<hr> = linea continua
+
+<img> = etiqueta imagen. (Necesita atributo src , alt)
+
+<a> = se usa para generar enlaces(Necesita referencia o atributo href
+
+<u> =
+
+<small> = Sirve para escribir texto mas pequeño que el tamaño normal
+
+<s> = Sirve para tachar un texto
+
+<section> = sirve para organizar. Generalmente hace referencia a que es un conjunto de datos relacionado a un tema
+
+
+
+
+
+
+              Atributos HTML:
+
+Align = alinea el texto o componente 
+
+Type = nos permite cambiar el tipo de carácter. Ej <ol type=“1”>…</ol>
+
+Start = nos permite definir donde va a empezar nuestra numeración. Ej <ol start=“20”>…</ol>
+
+Charset = permite definir la codificación de caracteres a utilizar
+
+Src = source u origen de la ruta de la imagen que queremos mostrar (puede ser ruta absoluta o relativa)
+
+Alt = texto alternativo o descriptivo para esta imagen
+
+Href = atributo donde se escribirá la ruta del recurso que deseamos vincular (hipervinculo) (seguido de un archivo target) (#ID para ancla)
+
+Target = define en donde se abrirá el documento que queremos vincular con href ( _blank abre una pestaña nueva)
+
+Width = nos permite ajustar el ancho de algo
+
+Height = nos permite ajustar el alto de algo 
+
+Id = identificador unico
+
+
+
+
+CSS:
+
+Style = 
+
+
+
+            Valores HTML:
+
+Utf-8= standar unicode diseñado para la correcta visualización de caracteres utilizados en la mayoría de lenguajes
