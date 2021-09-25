@@ -1,0 +1,8 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+Fue creado por el equipo de desarrollo de Linux, para tener un sistema confiable de repositorio de software, en principio porque el repositorio que usaba Linux para la distribución de sus parches y actualizaciones se cayó.
+
+¿A quién pertenece actualmente Github y por qué?
+Github pertenece a Microsoft porque lo compró (?).
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+Sí. Hay herramientas como Git GUI que es un entorno gráfico y herramientas integradas a los IDE como Visual Studio Code que ayudan a hacer la gestión de los repositorios en el día a día.
