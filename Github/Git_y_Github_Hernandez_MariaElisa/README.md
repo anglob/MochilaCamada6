@@ -12,3 +12,6 @@
 
 3. Se podria utilizar GitHub en el desktop, a partir de la interface se pueden hacer las mismas acciones que se hacen desde la terminal.
 
+
+Esto es una prueba desde la plataforma web.
+
