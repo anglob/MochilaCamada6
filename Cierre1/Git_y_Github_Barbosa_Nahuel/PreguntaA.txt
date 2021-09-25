@@ -1,0 +1,3 @@
+a. ¿Quién inventó el sistema de control de versión Git y por qué?
+ Fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+ , la comunidad de desarrolladores de Linux utilizaba BitKeeper, un sistema de control de versiones distribuido y comercial, aunque gratuito para proyectos de código abierto.

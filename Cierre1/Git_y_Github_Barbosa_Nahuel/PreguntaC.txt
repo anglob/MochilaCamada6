@@ -1,0 +1,3 @@
+c. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, pudiendo acoplar Github a entornos de desarrollo como NetBeans.
+Se sincroniza y luego me dan opciones para realizar acciones como: pull, commit, push, clone, etc.
