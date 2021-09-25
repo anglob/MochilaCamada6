@@ -12,3 +12,7 @@ Git remote -v = da como resultado el link del repositorio en la nube conectado a
 Git branch -d <branch> = elimina la rama llamada <branch>.Git evita que eliminemos la rama si tiene cambios que aun no se han fusionado con la rama main
 Git checkout <nombreRama> = permite movernos entre distintas ramas. Esto solo sera posible si no tenemos cambios.
 Git checkout -b <nombreRama> = Crea una rama y a la vez se mueve a esa rama
+Git status = chequear el estado de los archivos
+Git log = resume el total de commits
+Git restore . = restaura los elementos eliminados anteriormente en esa carpeta
+Git remote add origin <link> = Sincroniza el repositorio local con el repositorio en la nube de GitHub
