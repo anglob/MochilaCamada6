@@ -1,10 +1,10 @@
 ## Cuestionario prueba Git y GitHub
 
 ### Preguntas
-1.¿Quién inventó el sistema de control de versión Git y por qué?
-2.¿A quién pertenece actualmente Github y por qué?
-3.¿Hay otra forma que no sea la terminal para trabajar con Github?
-
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+2. ¿A quién pertenece actualmente Github y por qué?
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+ 
 ### Solución
 1. Linus Torvalds inventó Git hace 15 años para continuar con el desarrollo del kernel de Linux. El equipo original ya no podía usar BitKeeper. En ese momento, ninguna otra gestión de control de fuentes (SCM) cumplía con sus requisitos específicos para un sistema distribuido.
 
