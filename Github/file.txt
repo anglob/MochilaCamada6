@@ -1,0 +1,12 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+
+-Lo invento Linus Torvalds, lo creo con el fin de darle solucion a la complejidad de tratar con muchos codigos fuentes de un software en especifico, el tratamiento requeria llevar un registro claro de todos los cambios realizados en cuanto a codigo, y asi mismo poder coordinar el trabajo de las desarrolladores implicados en wl proyecto para trabajar de forma mas eficiente. El concepto RAMA volvio mucho mas conveniente el trabajar los proyectos de software por funcionalidad.
+
+¿A quién pertenece actualmente Github y por qué?
+
+El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dolares, Microsoft quiere integrar dentro de su organizacion una cultura mucho mas enfocada hacia el open source, GitHub en el 2018 y hoy en dia sigue siendo una de las redes sociales de desarrolladores mas grande del mundo y obviamente un canal de comunicacion directa para entender las necesidades y comportamientos de los mismos. Microsoft encuentra una oportunidad enorme al incluir dichas necesidades como soluciones dentro de su portafolio de productos y de esta manera expandir su mercado de influencia.
+El trabajo colaborativo a nivel mundial se convierte en una de las armas mas poderosas de Microsoft con la adquisicion de GitHub.
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+
+GitHub cuenta con su propia aplicacion web que permite gestionar los repositorios remotos que tengamos alojados alli, consta de una interfaz grafica muy bien estructurada desde la cual podemos ejecutar instrucciones orientadas a la gestion del trabajo colaborativo por repositorio, tener acceso a la configuracion de usuario, asignacion de dominios y despliegue de proyectos, seguimiento en vivo de desarrollos, etc...todo un paquete de funcionalidades que le facilitan la tarea al desarrollador, hoy en dia su funcion no es solo codificar, si no tambien compartir e informarse constantemente.
