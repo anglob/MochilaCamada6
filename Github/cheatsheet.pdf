@@ -1,0 +1,14 @@
+Git init = Sirve para activar un repositorio local
+Git clone + url de repositorio = Sirve para clonar un repositorio remoto
+Git add <nombreArchivo> / . = Sirve para mover el archivo al estado de stage.
+Git commit -m <"mensaje> = Sirve para mover el archivo del stage al repositorio local.
+Git remote add origin <linkRepositorio> = Sirve para vincular el repositorio local con el repositorio remoto.
+Git pull origin <nombreRama> = Sirve para actualizar el repositorio local.
+Git push origin <nombreRama> = Sirve para subir los cambios del repositorio local al repositorio remoto.
+Git reset head = Sirve para devolver un archivo al estado de untracked.
+Git branch = Sirve para mostrar las ramas disponibles dentro del repositorio.
+Git branch <nombreRama> = Crea una rama con el nombre indicado.
+Git remote -v = da como resultado el link del repositorio en la nube conectado al actual repositorio local
+Git branch -d <branch> = elimina la rama llamada <branch>.Git evita que eliminemos la rama si tiene cambios que aun no se han fusionado con la rama main
+Git checkout <nombreRama> = permite movernos entre distintas ramas. Esto solo sera posible si no tenemos cambios.
+Git checkout -b <nombreRama> = Crea una rama y a la vez se mueve a esa rama

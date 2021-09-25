@@ -1,0 +1,8 @@
+a.¿Quién inventó el sistema de control de versión Git y por qué?
+Fue creado por Linus Torvalds en 2005, para ser utilizado en el desarrollo del kernel de linux
+
+b.¿A quién pertenece actualmente Github y por qué?
+Pertenece a Microsoft, quien lo compro porque queria tener una base de datos de codigos
+
+c.¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, se puede trabajar desde el browser y desde aplicaciones de escritorio
