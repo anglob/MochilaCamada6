@@ -11,4 +11,4 @@ Git branch <nombreRama> = Crea una rama con el nombre indicado.
 Git remote -v = da como resultado el link del repositorio en la nube conectado al actual repositorio local
 Git branch -d <branch> = elimina la rama llamada <branch>.Git evita que eliminemos la rama si tiene cambios que aun no se han fusionado con la rama main
 Git checkout <nombreRama> = permite movernos entre distintas ramas. Esto solo sera posible si no tenemos cambios.
-Git checkout -b <nombreRama> = Crea una rama y a la vez se mueve a esa rama
+Git checkout -b <nombreRama> = Crea una rama y a la vez se mueve a esa rama 
