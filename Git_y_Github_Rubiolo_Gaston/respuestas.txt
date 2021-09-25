@@ -1,0 +1,10 @@
+1
+GitHub fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux.
+Es un software que permite registrar todos los cambios realizados en el código fuente de un proyecto, de forma que sea sencillo comparar diferentes versiones del mismo, recuperar versiones anteriores y, en general, permitir que una o varias personas desarrollen un mismo proyecto de forma efectiva.
+2
+El 4 de junio de 2018 Microsoft compró GitHub por la cantidad de 7500 millones de dólares1​2​, al inicio el cambio de propietario generó pr
+eocupaciones y la salida de algunos proyectos de este repositorio3​, sin embargo no fueron representativos. GitHub continúa siendo la plataforma más importante de colaboración para proyectos Open Source
+Esta plataforma se ha popularizado por las múltiples opciones y posibilidades colaborativas para proyectos tan dispares como escribir un libro o la creación de drones con la filosofía del Open Source.Otras empresas utilizan la plataforma para recibir un feedback directo con sus usuarios, allí los usuarios pueden escribir sus problemas o bugs en búsqueda de soporte. También se ha utilizado esta plataforma para organizar de una manera más directa y democrática cualquier tipo de evento.
+
+3
+Si se puede trabajar sin comandos, utilizando la interfaz grafica.
