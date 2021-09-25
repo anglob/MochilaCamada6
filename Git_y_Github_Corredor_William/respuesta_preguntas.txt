@@ -1,0 +1,8 @@
+
+--Git fue desarrollado por Linus Torvalds para el desarrollo del Kernel de Linus en 2005
+
+--El Actual dueño de Github es Microsoft
+
+--Si, tambien se puede trabajar con Github desde la misma plataforma, creando, editando y eliminando archivos, asi como el manejo de ramas.
+
+
