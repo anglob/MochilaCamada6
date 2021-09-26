@@ -1,5 +1,5 @@
 
---Git fue desarrollado por Linus Torvalds para el desarrollo del Kernel de Linus en 2005
+--Git fue desarrollado por Linus Torvalds para el desarrollo del Kernel de Linus en 2005.
 
 --El Actual dueño de Github es Microsoft
 
