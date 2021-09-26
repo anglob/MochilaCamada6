@@ -1,0 +1,8 @@
+¿Quién inventó el sistema de control de versión Git y por qué?
+Hoy en día, Git es, con diferencia, el sistema de control de versiones moderno más utilizado del mundo. Git es un proyecto de código abierto maduro y con un mantenimiento activo que desarrolló originalmente Linus Torvalds
+
+¿A quién pertenece actualmente Github y por qué?
+Git es un proyecto de código abierto muy bien respaldado con más de una década de gestión de gran fiabilidad. Los encargados de mantener el proyecto han demostrado un criterio equilibrado y un enfoque maduro para satisfacer las necesidades a largo plazo de sus usuarios con publicaciones periódicas que mejoran la facilidad de uso y la funcionalidad.
+
+¿Hay otra forma que no sea la terminal para trabajar con Github?
+Si, con la versión desktop para Windows.
