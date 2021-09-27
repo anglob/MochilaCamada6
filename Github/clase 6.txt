@@ -1,0 +1,13 @@
+A.) Creador: Linus Torvalds
+Por qué ? Para mejorar el rendimiento de control de versiones, 
+incluidos proyectos comerciales y de código abierto.
+
+B.)El mantenimiento del software Git está actualmente (2009) 
+supervisado por Junio Hamano, quien recibe contribuciones al
+ código de alrededor de 280 programadores. 
+En cuanto a derechos de autor Git es un software libre distribuible
+bajo los términos  de la versión 2 de la Licencia Pública General
+ de GNU.
+
+C.) Hay distintas, está jupyter notebook, Anaconda, PyCharm... estas 
+son las que conozco pero en general la mayoria de los IDES 
