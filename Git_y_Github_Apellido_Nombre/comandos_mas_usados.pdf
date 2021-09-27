@@ -1,0 +1,23 @@
+20 comandos mas usados en git:
+
+1. cd = avanza en el directorio
+2. cd .. = se devuelve
+3. mkdir = crea carpeta
+4. touch = crea archivo/fichero
+5. git init = inicia repositorio
+6. git status = permite ver estado de archivos 
+7. git add = añade un archivo al control de versiones
+8. git add . = añade los archivos de un directorio al control de versiones
+9. git commit -m "" = añade un comentario a la actualización del repositorio"
+10.clear = limpia la terminal 
+11. mv nombreactual nombrecarpeta = cambia el nombre del archivo teniendo en cuenta que no se tiene registrado un directorio con el nombre de la carpeta destino
+12. mv nombreactual nombrenuevo = cambia el nombre del documento
+13. git log = muestra el control de versiones de los archivos
+14. git remote add origin url = apunta al repositorio remoto, vincula
+15. git push origin nombrerama = permite cargar las novedades realizadas en una rama en el repositorio remoto
+16. git pull origin nombrerama = descarga los cambios que hay en la rama, hacia mi repositorio local
+17. git log --oneline = resume los commits 
+18. git -rf .git = elimina repositorio de carpeta local
+19. git branch = permite ver las ramas creadas
+20. git help comando = permite conocer las caracteristicas de un comando
+
