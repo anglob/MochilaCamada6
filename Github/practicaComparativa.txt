@@ -1,0 +1,5 @@
+Marcelo = amd a8 9600
+
+Matilda = Ryzen 5 3600
+
+Hermano mayor = intel i3 3230
