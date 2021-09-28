@@ -1,0 +1,17 @@
+git init sirve para abrir un repositorio local
+git config user.name se utiliza para configurar el usuruario para editar
+git config user.email se utiliza para configurar el correo para editar
+git add . sirve para añadir todos los archivos a la carpeta git
+git commit -m "comentario" se utiliza para comitiear los archivos añadidos
+git log se utiliza para ver los commits
+git log --oneline se utiliza para presentar los commits de forma reducida
+git branch nos permite crear una nueva rama
+git branch -m "nombre de la rama" "nuevo nombre de la rama" este comando se utiliza para renombrar las ramas
+git branch -M "nuevo nombre de la rama" cambia directamente el nombre de la rama
+git checkout "nombre de la rama" se utiliza para movernos entre ramas
+git checkout -b "nombre de la rama" sirve para crear una nueva rama y movernos inmediatamente a ella
+git clone "enlace del repositorio en github" se utiliza para traer un repositorio del github a nuestro repositorio local
+git push se utiliza para subir las versiones de los archivos al github
+git pull se utiliza para bajar las nuevas versiones de los archivos del github
+git remote se utiliza para enlazar el repositorio local con un repositorio en github que hayamos creado
+rm -rf .git sirve para eliminar la carpeta git 
