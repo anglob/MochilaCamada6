@@ -1,0 +1,2 @@
+Linus Torvalds (creador de linux) desarrollo git debido a que la relacion entre la comunidad que desarrollaba el kernel de linux y la  empresa que creaba bitkeeper
+  se vino abajo, lo cual le dio espacion a linus para que creara su propia herramienta en el ano 2005.
