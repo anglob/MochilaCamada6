@@ -1,0 +1,8 @@
+Procesador Intel Core i7 9700K 4.9GHz Turbo 1151 Coffee Lake
+Mother Gigabyte H310M-H LGA 1151 8va gen
+Memoria Adata DDR4 8GB 3200MHZ XPG Gammix D30 Black
+Disco Sólido SSD Kingston 480GB A400 500MB/s2
+Placa de Video Asrock RX 570 8GB Phantom Gaming D
+Fuente ASUS ROG STRIX 750G 80 Plus Gold 750W Full Modular
+Gabinete Corsair 280X RGB TG White MATX
+
