@@ -1,0 +1,29 @@
+Microdesafíos - Mesa X-XI-XII-XIII
+Para poner en práctica los conocimientos adquiridos en este átomo, necesitarás previamente realizar la siguiente actividad. 
+Hacer una copia de la tabla base en donde puedan trabajar la ejercitación para llegar a los resultados solicitados. 
+
+Enunciado: 
+Nuestro grupo de amigos adquirió una  PC con un disco de 1TB y queremos instalarle la mayor cantidad de juegos posibles de una lista de 15 juegos que armamos entre todos.
+
+Juego
+Peso
+Assassin's Creed: Valhalla 50 GB
+DiRT 5  64 GB
+Shadow of the Tomb Raider 25395,2 MB = 25,4GB
+Doom Eternal  77 GB
+Cyberpunk 2077 0.0000667572 PB
+Half-Life Alyx 67 GB
+Call of Duty: Warzone 175 GB
+Call of Duty: Black Ops Cold War 125 GB
+FIFA 21  52428800 KB
+Microsoft Flight Simulator 153600 MB
+Watch Dogs Legión 45 GB
+The Witcher III: Wild Hunt 0.046875 Terabytes
+Deus Ex: Mankind Divided 46 GB
+Marvel's Avengers  94371840 KB
+Baldur's Gate 3 150 GB
+
+RTA.
+1TB = 1000GB
+
+Los juegos serias asi:
