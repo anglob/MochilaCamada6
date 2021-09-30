@@ -1,8 +1,3 @@
-Actividad 1
-
-
-
-
 Microdesafíos - Mesa X-XI-XII-XIII
 Para poner en práctica los conocimientos adquiridos en este átomo, necesitarás previamente realizar la siguiente actividad. 
 Hacer una copia de la tabla base en donde puedan trabajar la ejercitación para llegar a los resultados solicitados. 
