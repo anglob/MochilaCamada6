@@ -1,0 +1,65 @@
+ACTIVIDAD CLASE 7_27.09
+INTRO A LA INFORMÁTICA
+
+Práctica Comparativa para Matilda y sus 2 hermanos de 3 CPUs.
+
+Rta.:
+
+En base a relevamiento de requisitos de los programas que he hecho y de características de los 3 micros, llego a la conclusión que 
+
+Para Matilda, que quiere Jugar al Cyberpunk 2077, el procesador correcto sería el "Amd Ryzen 5 3600".
+Para Marcelo, su hermano menor, que quiere usar el paquete de Office 2019, el adecuado sería el "Intel I3 3230".
+Y para su hermano mayor, que quiere editar videos con Wondershare Fimora X, con el A8 9600 es el correcto, aunque le recomendaría que agregue una placa de video mínimamente de 2 GB, e ideal de 4GB para renderizar los videos a HD y 4K para trabajar mejor.
+
+Dejo a continuación, la justificación.
+
+Saludos! 
+Luigi :)
+
+----------------------------------
+// Amd Ryzen 5 3600 //
+Procesador de 6 núcleos y 12 hilos, a 3,6 GHz / 4,2 GHz (Turbo Core)
+Uno de los primeros procesadores para PC grabado en 7 nm y compatible con la interfaz PCIe 4.0.
+La tercera generación de Ryzen, con el nombre Matisse code,  32  MB de caché L3 y sólo 65W  de TDP. Viene con su sistema de refrigeración AMD Wraith Spire ultraeficiente y silencioso.
+
+// Amd A8 9600 //
+Núcleos de la CPU 4.
+Núcleos de GPU 6.
+Compute Cores 10 (4 CPU + 6 GPU)
+GPU:  AMD Radeon R7 200 Series v2
+Velocidad del reloj base 3.1GHz.
+Velocidad de núcleo máx. 3.4GHz.
+Caché L1 total 0 KB.
+Caché L2 total 2MB.
+
+// Intel I3 3230 //
+Cantidad de núcleos 2.
+Cantidad de subprocesos 4.
+Frecuencia básica del procesador 3,30 GHz.
+Caché 3 MB Intel® Smart Cache.
+Velocidad del bus 5 GT/s.
+TDP 55 W.
+-------------------------------
+
+// Cyberpunk 2077 //
+Requisitos mínimos para jugar a Cyberpunk 2077
+Windows 7 o 10 de 64 bit.
+Intel Core i5 3570K o AMD FX 8310.
+8 GB de memoria RAM.
+Tarjeta gráfica NVIDIA GTX 780 o AMD Radeon RX 470 con 3 GB de VRAM.
+70 GB de espacio en disco, recomendable SSD.
+
+// Wondershare Filmora X //
+SO: : Windows 7/8.1/10 (64 bit).
+Procesador: : Procesador Intel i3 o superior multinúcleo, 2 GHz o superior. (Se recomienda Intel 6th Gen o un CPU más nuevo para videos HD y 4K).
+RAM : Al menos 4GB RAM físico (8GB requeridos para HD y 4K vídeos)
+Tarjeta Gráfica : Intel HD Graphics 5000 o posterior; NVIDIA GeForce GTX 700 o posterior; AMD Radeon R5 o posterior.
+2 GB de vRAM (se requieren 4 GB para videos HD y 4K).
+Disco : Al menos 10GB de espacio libre en el disco duro para la instalación (Disco de estado sólido SSD recomendado para editar videos HD y 4K)
+
+// Paquete Office 2019 //
+Computadora y procesador 1,6 gigahertz (GHz) o más rápido, 2 núcleos.
+Profesional Plus: Professional Plus: se recomienda 2,0 GHz o mayor para Skype for Business.
+Memoria 4 GB de RAM; 2 GB de RAM (32 bits)
+
+
