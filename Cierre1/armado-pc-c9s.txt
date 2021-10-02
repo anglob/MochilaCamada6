@@ -1,0 +1,87 @@
+Grupo 9, Diego Marulanda Barrientos, Camila Martienz, Jhonatan Buitrago, Christopher Puma, Maria Fernanda Toro Montoya, Jhonatan Steven Monrroy Gallegos
+
+
+Gama baja -intel
+
+procesador core i3 7100
+placa base Placa Base Gigabyte GA-H110M-S2H
+memoria pincipal Kingston FURY Beast DDR4 2666 MHz 8GB CL16
+memoria secndaria Kingston A400 SSD 240GB
+Fuente de poder EVGA W1 500W 80 Plus
+
+Gama baja -AMD
+
+procesador Ryzen 3 2200g
+placa base GIGABYTE GA-A320M-S2H
+memoria pincipalKingston FURY Beast DDR4 2666 MHz 8GB CL16
+memoria secndaria Kingston A400 SSD 240GB
+Fuente de poder EVGA W1 500W 80 Plus
+
+Gama baja criterio estudiante
+
+procesador Intel Core I3 10100F 360 GHz
+placa base Gigabyte H410M H V3
+memoria pincipal Kingston FURY Beast DDR4 2666 MHz 8GB CL16
+memoria secndaria Kingston A400 SSD 240GB
+Fuente de poder EVGA W1 500W 80 Plus
+
+Gama media -intel
+procesador Intel Core i5-8400 2.8GHz BOX
+placa base Gigabyte B365M-D3H
+memoria pincipal Kingston FURY Beast DDR4 2666 MHz 16GB CL16
+memoria secndaria Kingston DC500R SSD 2.5" 480GB SATA3
+GPU Geforce gt 1030 2GD4 LP OC
+Fuente de poder EVGA W1 600W 80 Plus 
+
+Gama media -AMD
+
+procesador AMD Ryzen 5 3600 3.6GHz BOX
+placa base A3200M ASROCK
+memoria pincipal Corsair Vengeance RGB Pro DDR4 2933MHz PC4-23400 16GB 2x8GB CL16
+memoria secndaria Kingston DC500R SSD 2.5" 480GB SATA3
+GPU Asus TUF Gaming GeForce GTX 1660 Ti EVO TOP Edition 6GB GDDR6
+Fuente de poder Aerocool Aero White 650W 80 Plus
+
+Game media- criterio estudiante
+
+procesador Intel Core i5-9400 2.9 GHz
+placa base Asus PRIME B365 PLUS
+memoria pincipal Corsair Vengeance RGB Pro DDR4 2933MHz PC4-23400 16GB 2x8GB CL16
+memoria secndaria Kingston A400 SSD 240GB (para el sistema operativo)
+memoria secndaria Kingston DC500R SSD 2.5" 480GB SATA3 (videojuegos o programas ejemplo autocad)
+GPU Zotac Gaming GeForce RTX 2060 6GB GDDR6
+Fuente de poder EVGA GQ 750W 80 Plus Gold Modular
+
+Gama alta -intel
+
+procesador core i7-10700
+placa base Asus ROG MAXIMUS XIII APEX
+memoria pincipal Crucial Ballistix RGB DDR4 3600MHz PC4-28800 64GB 2x32GB CL16
+memoria secndaria Kingston DC500R SSD 2.5" 480GB SATA3
+GPU Gigabyte AORUS GeForce RTX 3090 XTREME 24GB GDDRX6
+Fuente de poder Thermaltake Toughpower GF1 ARGB 850W 80 Plus Gold Full Modular
+
+Gama alta -AMD
+procesador AMD RYZEN 7 3800XT
+placa base Asus ROG Crosshair VIII Impact
+memoria pincipalCrucial Ballistix RGB DDR4 3600MHz PC4-28800 64GB 2x32GB CL16
+memoria secndaria Kingston DC500R SSD 2.5" 480GB SATA3
+GPU Gigabyte AORUS GeForce RTX 3090 XTREME 24GB GDDRX6
+Fuente de poder Thermaltake Toughpower GF1 ARGB 850W 80 Plus Gold Full Modular
+
+
+
+Gama alta-criterio estudiante
+procesador AMD Ryzen ThreadRipper Pro 3995WX 2.7 GHz
+placa baseAsus ROG CROSSHAIR VIII EXTREME
+memoria pincipal Corsair Dominator Platinum RGB DDR4 4000MHz PC4-32000 32GB 4x8GB CL19 Blanca
+memoria secndaria Kingston A400 SSD 240GB (para el sistema operativo)
+memoria secndaria Kingston DC500R SSD 2.5" 480GB SATA3 (videojuegos o programas ejemplo autocad)
+GPU Gigabyte AORUS GeForce RTX 3090 XTREME 24GB GDDRX6
+Fuente de poder Asus ROG Thor 1200P 80 Plus Platinum 1200W Modular
+
+
+
+
+
+
