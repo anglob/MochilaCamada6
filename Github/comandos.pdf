@@ -1,0 +1,35 @@
+git —version --> muestra la version actual de git
+
+git init --> crear repositorio local
+
+git add . --> Mover todos los archivos al Staged
+
+git commit -m 'mensaje' --> Mover archivos de Staged a Tracked con su respectivo mensaje
+
+git status --> Ver el estado de los archivos 
+
+git rm —cached --> git ignora el archivo pasándolo a un estado de untracked sin eliminarlo
+
+git branch -m 'nombreRamaAcambiar' 'nombreRamaNueva' --> renombrado la rama
+
+git log —online --> Historial de los commits
+
+git remote add origin 'url de repositorio remoto' --> Sincroniza el repositorio local con el repositorio remoto
+
+git push origin 'nombreRama' = envia los archivos desde el repositorio local al repositorio en la nube de Github
+
+git clone 'url del repositorio remoto' --> Realiza una clonación del repositorio remoto, este puede tomar tanto https o ssh
+
+git pull origin 'nombreRama' --> Sincroniza las ultima actualización del repositorio remoto con el local
+
+git branch --> Muestra las ramas presente en el repositorio local
+
+git branch 'nombreRama --> Crea una nueva rama
+
+git branch -d 'nombreRama --> Elimina una rama en especifico
+
+Git branch -D 'nombreRama' --> Fuerza la eliminación de la rama seleccionada incluso si tiene cambios no fusionado
+
+git checkout 'nombreRama' --> Navegación entre ramas
+
+git checkout -b 'nombreRama' --> Crea una rama y a la vez se mueve a esta
