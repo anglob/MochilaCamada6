@@ -1,0 +1,29 @@
+Cpu UNIDAD CENTRAL DE PROCEAMIENTO-> chip
+Interpreta operaciones aritmeticas y lógicas.
+Se compone por la unidad logico aritmetica, la unidad de control
+y los registros (unidad de memoria de alta velocidad).
+El procesador pide informacion de la memoria RAM, su principal caracteristica es que es volatil, necesita energia electrica para guardar información
+de acceso aletario que guarda la informacion en distintos lugares
+no de la memoria secundaria (disco duro, disco de estado solido, extraible)
+Caracteristicas
+-nucleos: subprocesadores
+-La velocidad del procesador depende de la frecuencia 
+con que vibra el reloj de cuarso
+La memoria cache esta en el procesador
+
+El puente norte controla el acceso a la CPU, la RAM, GPU
+El puente sur controla puertos de salida, 
+
+GPU es un coproceador que se encarga de toda la parte grafica
+bus de datos
+bus de dirección
+bus de control
+
+Al inicializar el PC la memoria rom inicia con la bios, verifica funcionamiento de componentes
+y luego inicia el sistema operativo
+
+Armar una computadora
+1. Elegir la madre (socket "socalo donde va el microprocesador" 1151 "lamedida para el procesador" overclock Referencias H)
+2. Elegir el procesador d ela misma medida "1151" 4.6Ghz Es la Velocidad, algunos incluyen el cpu.
+
+
